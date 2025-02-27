@@ -1,6 +1,6 @@
 ### Hi there, I'm Burak 👋
 
-![Typing Animation](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=4000&pause=1000&color=009fad&width=935&lines=%20Full-Stack+Developer;Petroleum+Engineer;Soccer+Player)
+![Typing Animation](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=4000&pause=1000&color=009fad&width=935&lines=%20Full-Stack+Software+Developer;Petroleum+Engineer;Soccer+Player)
 
 I’m currently working on [NowJersey](https://github.com/burakoncuy/NowJersey) where users can buy and sell jerseys, connecting sports fans with the gear they love.
 
