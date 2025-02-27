@@ -10,7 +10,7 @@ When I’m not coding, you’ll find me kicking around a soccer ball, experiment
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" /> Let's connect! 
   <a href='mailto:burakoncuy@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a>
   <a href='https://www.linkedin.com/in/burak-%C3%B6zdemir-64a2a9317/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
-  <a href=''><img src='https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139'/></a>
+  <a href='https://burakoncuy.github.io/'><img src='https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139'/></a>
 
 <hr></hr>
 
